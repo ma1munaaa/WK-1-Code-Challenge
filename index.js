@@ -11,7 +11,7 @@ function gradeGenerator(number) {
     return "C-";
 }else if (number => 40 && number <= 49){
     return "D-";
-}else if (number < 40) {
+}else if (number < 40) {s
     return "E";
   }
  
@@ -57,5 +57,5 @@ function payeCalculator (){
     }
     payeCalculator();
 
-}
+
  
